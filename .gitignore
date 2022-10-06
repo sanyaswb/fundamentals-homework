@@ -1,5 +1,5 @@
-/node-modules/
-/.idea/
-/cmake-build-debug/
-/venv/
-/.DC_Store/
+node_modules
+.idea
+cmake-build-debug
+venv
+.DC_Store
