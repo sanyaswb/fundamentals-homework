@@ -2,9 +2,23 @@ const input = require('./system/input');
 const finish = require('./system/finish');
 
 async function main() {
-	const message = await input('Enter your message here:');
+	const userData = {
+		surname: 'Doe',
+		name: 'John',
+		middleName: 'John',
+		numberPhone: '+380655555555',
+		mail: 'mail@gmail.com'
+	};
 
-	console.log('' + message);
+	const product = {
+		name: 'Apple',
+		price: '899$',
+		amount: 1
+	};
+
+	console.log(typeof userData);
+	console.log(typeof userData.surname);
+	console.log(typeof product.amount);
 
 	finish();
 }
