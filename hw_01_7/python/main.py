@@ -1,0 +1,8 @@
+print('Enter your name')
+name = input()
+print('Hello', name)
+print('What drink do you want?')
+drink = input()
+print('How many drinks do yoy want?')
+count = input()
+print(name, 'choose', count, 'of', drink)
