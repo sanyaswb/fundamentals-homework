@@ -4,7 +4,7 @@ const finish = require('./system/finish');
 async function main() {
 	const a = await input();
 	const b = await input();
-	let c = (Number(+a + +b));
+	let c = parseInt(a, 10) + parseInt(b);
 	console.log('add: ' + c);
 
 	c = a - b;
