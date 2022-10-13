@@ -26,7 +26,7 @@ int main() {
 	std::cout << c << std::endl;
 
 	std::cout << "float: ";
-	float d = float(a) / float(b);
+	float d = float(a) / b;
 	std::cout << d;
 
 	return 0;

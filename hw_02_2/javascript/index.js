@@ -5,7 +5,7 @@ async function main() {
 	const a = await input();
 	const b = await input();
 	let c = parseInt(a, 10) + parseInt(b);
-	console.log('add: ' + c);
+	console.log('add: ' + c);36
 
 	c = a - b;
 	console.log('subtract: ' + c);
