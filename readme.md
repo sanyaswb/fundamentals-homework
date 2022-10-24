@@ -9,3 +9,5 @@
 ## Homework 3
 - 3_1 https://github.com/sanyaswb/fundamentals-homework/tree/master/hw_03_1
 - 3_2 https://github.com/sanyaswb/fundamentals-homework/tree/master/hw_03_2
+- 3_3 https://github.com/sanyaswb/fundamentals-homework/tree/master/hw_03_3
+- 3_4 https://github.com/sanyaswb/fundamentals-homework/tree/master/hw_03_4
