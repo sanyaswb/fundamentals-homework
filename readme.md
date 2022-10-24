@@ -5,3 +5,7 @@
 - 1_7 https://github.com/sanyaswb/fundamentals-homework/tree/master/hw_01_7
 ## Homework 2
 - 2_2 https://github.com/sanyaswb/fundamentals-homework/tree/master/hw_02_2
+- 2_3 https://github.com/sanyaswb/fundamentals-homework/tree/master/hw_02_3
+## Homework 3
+- 3_1 https://github.com/sanyaswb/fundamentals-homework/tree/master/hw_03_1
+- 3_2 https://github.com/sanyaswb/fundamentals-homework/tree/master/hw_03_2
